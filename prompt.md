@@ -1,10 +1,3 @@
-"""Prompt templates for the microfinance loan decision-support system (Lab 4).
-
-Prompts are code. They are kept here, in version control, so that any brief produced
-by the system can be traced back to the exact template that produced it -- which is a
-hard requirement for an auditable credit process, not a nicety.
-
-
 VERSION HISTORY
 
 

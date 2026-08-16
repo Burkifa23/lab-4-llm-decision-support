@@ -10,7 +10,7 @@
 
 **GitHub Repository Link:** [https://github.com/Burkifa23/lab-4-llm-decision-support](https://github.com/Burkifa23/lab-4-llm-decision-support) 
 
-**Date Submitted:** 
+**Date Submitted:** 16/08/2026
 
 ## **1. AI Use Summary** 
 
@@ -18,7 +18,7 @@
 |---|---|
 |**Question**|**Student Response**|
 |Did you use any AI tool for this lab?|Yes |
-|Estimated percentage of the work influenced by AI| |
+|Estimated percentage of the work influenced by AI|10% |
 |Did you attach evidence of AI use where applicable?|Yes|
 
 
@@ -40,10 +40,10 @@ YOU MUST NEVER GIVE ME THE CODE! You must analyze my code and Student Reasoning 
 ## **3. Attachment of AI Output Evidence** 
 
 Where required, attach evidence of AI use. Tick all that apply. Add more rows where necessary. 
-Gemini: https://gemini.google.com/app/7828b62878785314
+
 |**Evidence Type**|**Attached?**<br>**(Yes, No,**<br>**N/A)**|**File Name**|
 |---|---|---|
-|Link|Yes |https://gemini.google.com/app/7828b62878785314 |
+|Link|Yes |Evidence.pdf|
 
 
 
@@ -62,4 +62,4 @@ I declare that:
 
 **Student Signature:** _frank_
 
-**Date:**
+**Date:**: 16/08/2026
